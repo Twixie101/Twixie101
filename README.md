@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [THE DiagnoSys Health app](https://diagnosys-health-app-f5m1.onrender.com)
 
-- 👨‍💻 All of my projects are available at [tkzulu.kesug.com](tkzulu.kesug.com)
+- 👨‍💻 All of my projects are available at [tkzulu.kesug.com](https://tkzulu.kesug.com)
 
 - 💬 Ask me about **Python, Python Web Development Frameworks , JavaScript, HTML, CSS, PHP and MySQL**
 
