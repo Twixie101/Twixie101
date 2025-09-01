@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://your-banner-link-here.png" alt="Takondwa Zulu Hero Banner" />
+  <img src="https://as2.ftcdn.net/v2/jpg/05/54/46/89/1000_F_554468927_iwU3VYIjsaeopAb0WPYxVf21TloEhTEj.jpg" alt="Takondwa Zulu Hero Banner" />
 </p>
 
 <!-- Typing Intro -->
