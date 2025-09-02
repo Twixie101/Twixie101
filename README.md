@@ -54,5 +54,6 @@
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=twixie101&theme=algolia&margin-w=15&margin-h=15&no-bg=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=twixie101&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophies"/>
 </p>
+
