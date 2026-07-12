@@ -16,7 +16,7 @@
   🔭 Currently building <b>A Portal to access Zambian Government Services</b> <br/>
   🌱 Learning <b>AI, React, ML & Robotics</b> <br/>
   🤝 Open to collaboration on <a href="https://diagnosys-health-app-f5m1.onrender.com"><b>THE DiagnoSys Health App</b></a> <br/>
-  👨‍💻 My projects: <a href="https://tkzulu.kesug.com"><b>tkzulu.kesug.com</b></a> <br/>
+  👨‍💻 My projects: <a href="https://twixie101.github.io/tkzulu.github.io/"><b>https://twixie101.github.io/tkzulu.github.io</b></a> <br/>
   💬 Ask me about: <b>Python, Django/Flask, JavaScript, HTML, CSS, PHP, MySQL</b> <br/>
   📫 Reach me at: <b>tkzulu44@gmail.com</b> <br/>
   ⚡ Fun fact: <i>I really love peanut butter 🥜</i>
