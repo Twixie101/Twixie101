@@ -26,7 +26,7 @@
 
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
-  <a href="https://instagram.com/kha._.mari" target="blank">
+  <a href="https://instagram.com/untouchable.tk" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
