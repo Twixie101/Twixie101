@@ -13,7 +13,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  🔭 Currently building <b>A Portal to access Zambian Government Services</b> <br/>
+  🔭 Currently building <b>A Study companion app </b> <br/>
   🌱 Learning <b>AI, React, ML & Robotics</b> <br/>
   🤝 Open to collaboration on <a href="https://diagnosys-health-app-f5m1.onrender.com"><b>THE DiagnoSys Health App</b></a> <br/>
   👨‍💻 My projects: <a href="https://twixie101.github.io/tkzulu.github.io/"><b>https://twixie101.github.io/tkzulu.github.io</b></a> <br/>
