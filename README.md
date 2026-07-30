@@ -17,9 +17,9 @@
   🌱 Learning <b>AI, React, ML & Robotics</b> <br/>
   🤝 Open to collaboration on <a href="https://diagnosys-health-app-f5m1.onrender.com"><b>THE DiagnoSys Health App</b></a> <br/>
   👨‍💻 My projects: <a href="https://twixie101.github.io/tkzulu.github.io/"><b>https://twixie101.github.io/tkzulu.github.io</b></a> <br/>
-  💬 Ask me about: <b>Python, Django/Flask, JavaScript, HTML, CSS, PHP, MySQL</b> <br/>
+  💬 Ask me about: <b>Python, Django/Flask, JavaScript, HTML, CSS, PHP, MySQL and Chess</b> <br/>
   📫 Reach me at: <b>tkzulu44@gmail.com</b> <br/>
-  ⚡ Fun fact: <i>I really love peanut butter 🥜</i>
+  ⚡ Fun fact: <i>I'm an aspiring entrepreneur</i>
 </p>
 
 ---
